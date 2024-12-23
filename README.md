@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @eduardo-alves-neto
+- 👋 Hi, I’m eduardo alves
+
 
 
